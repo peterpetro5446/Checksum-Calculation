@@ -1,6 +1,6 @@
 # PA02 — Checksum Calculation
 
-This program calculates an 8, 16, or 32-bit checksum for the contents of a given input file using ASCII text. It follows the specification provided in the CIS3360 "Security in Computing" course.
+This program calculates an 8, 16, or 32-bit checksum for the contents of a given input file using ASCII text. The program follows the specification provided in the CIS3360 "Security in Computing" course.
 
 ---
 
